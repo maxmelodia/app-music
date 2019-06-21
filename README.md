@@ -17,7 +17,9 @@ requisitado e a música.
 Parte do modelo arquitetural da API representada abaixo:
 
 ![enter image description here](https://lh3.googleusercontent.com/5s-WdBk2E7v71mgU8ny0s0nusZWkQl_abcVvQ8G-iZxmSCXY68QSJA0_DNRQUqIzQoQO4R06d3Lx "app-music-modelo")
-A documentação do microsserviço foi documentada pelo Swagger. Visualização através da seguinte URL:
+
+
+O microsserviço foi documentado utilizando o Swagger. Visualização através da seguinte URL:
 
 - http://[host]/swagger-ui.html
 
